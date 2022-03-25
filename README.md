@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋 My name is Nicole Magpantay!
 
 <!--
 **magpantaynic/magpantaynic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-Hello World! 👋 My name is Nicole Magpantay!
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite color is blue 💙
