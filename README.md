@@ -1,4 +1,4 @@
-### Hello World! 👋 My name is Nicole Magpantay!
+### 👋 Hello World!  My name is Nicole Magpantay 😇
 
 <!--
 **magpantaynic/magpantaynic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
