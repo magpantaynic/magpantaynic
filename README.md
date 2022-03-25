@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding a full time position related to designing and testing
 - 💬 Ask me about my background & work experience! 
 - 📫 How to reach me: magpantaynicole98@gmail.com
+- 👩🏻‍💻Checkout my personal website to learn more about me: https://magpantaynicole98.wixsite.com/nicolemsworld
 
 
 
