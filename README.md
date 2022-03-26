@@ -19,7 +19,7 @@ I am a graduate from Adelphi University with a Bachelor's Degree in Computer Sci
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite color is blue 💙
-- 🔭 I’m currently working on improving my java skills and hope to create more projects soon
+- 🔭 I’m currently working on improving my java skills and hope to create more projects soon related to software development
 - 🤔 I’m looking for help with finding a full time position related to designing and testing
 - 💬 Ask me about my background & work experience! 
 - 📫 How to reach me: magpantaynicole98@gmail.com
