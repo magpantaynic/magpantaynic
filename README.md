@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a graduate from Adelphi University with a Bachelor's Degree in Computer Science. 
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite color is blue 💙
 - 🔭 I’m currently working on improving my java skills and hope to create more projects soon
