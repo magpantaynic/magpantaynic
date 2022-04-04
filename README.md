@@ -19,7 +19,8 @@ I am a graduate from Adelphi University with a Bachelor's Degree in Computer Sci
 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favorite color is blue 💙
-- 🔭 I’m currently a Software Developer Traineer, working on improving my coding skills by practicing different exercise problems
+- 🔭 I’m currently a Software Developer Traineer, working on improving my coding skills by practicing different exercise problems.
+- 🥅 My goal is to try to work on some code every single day 🙏🏼
 - 📫 How to reach me: magpantaynicole98@gmail.com
 - 👩🏻‍💻Checkout my personal website to learn more about me: https://magpantaynicole98.wixsite.com/nicolemsworld
 
